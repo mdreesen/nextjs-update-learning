@@ -7,16 +7,8 @@ import { lusitana } from '@/app/ui/fonts';
 import { Suspense } from 'react';
 import { RevenueChartSkeleton, LatestInvoicesSkeleton, CardSkeleton } from '@/app/ui/skeletons';
 
-// Fetching data from the database
-// import { fetchCardData } from '@/app/lib/data';
-// import { fetchRevenue } from '@/app/lib/data';
-
 
 export default async function Page() {
-
-  // const revenue = await fetchRevenue();
-  // const latestInvoices = await fetchLatestInvoices();
-  // const { totalPaidInvoices, totalPendingInvoices, numberOfInvoices, numberOfCustomers } = await fetchCardData();
 
 
   return (
