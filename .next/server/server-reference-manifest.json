@@ -1,5 +1,14 @@
 {
-  "node": {},
+  "node": {
+    "b8156dc88a91ac00abf12ae751e41bea1c041588": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "rBN75ctZU9GtQ7mdhZLTlaxcCahpe+6jsk0G+xIg0EU="
+  "encryptionKey": "/0B0jbXvMt7QaDYsCvMILIBkEzgcMJzax8v5dv+rYj4="
 }
