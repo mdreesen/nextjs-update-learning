@@ -1,46 +1,58 @@
 {
   "node": {
-    "b8156dc88a91ac00abf12ae751e41bea1c041588": {
-      "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
-      },
-      "layer": {
-        "app/login/page": "action-browser"
-      }
-    },
     "cf9144e8555b7bf3ac238537b17f634146b4acfc": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%2C%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "b8156dc88a91ac00abf12ae751e41bea1c041588": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%2C%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
       }
     },
     "a4062b9ff154b8c579b47e80b74e185bc27c5b01": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%2C%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
       }
     },
     "b83f5be50a1b962e55952dc306762043e0742edc": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%2C%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/login/page": "action-browser"
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
       }
     },
     "a6719ffa0bcb62aeef433245d8d6529a282922af": {
       "workers": {
-        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%2C%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/customers/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmichaeldreesen%2FDocuments%2FProgramming%2Fprojects%2Fnextjs-update-learning%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/dashboard/(overview)/page": "rsc"
+        "app/dashboard/(overview)/page": "rsc",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/customers/page": "rsc"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "z4lYv6eGjr68rJF83pwYw2Hr0c/JXfX07MJNHc63c2M="
+  "encryptionKey": "X7SQIeI1VrL6SklLpQEptS/VocaHO1bl+UWO2Sf6em0="
 }
